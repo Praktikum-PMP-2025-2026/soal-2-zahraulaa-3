@@ -27,7 +27,7 @@ jobs:
           input: "4 5 11000 11010 00101 00011"
           expected-output: |-
             ISLANDS 4
-            LARGEST 3
+            LARGEST 4
           comparison-method: exact
           timeout: 2
           max-score: 10
